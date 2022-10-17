@@ -1,4 +1,4 @@
-### Hi there 👋🏾, my name is Ophelia.
+### Hello! 👋🏾 my name is Ophelia.
 #### I am a Software Enginner based in Philadelphia, PA.
 ![I am a Software Enginner based in Philadelphia, PA.](https://i.imgur.com/wRqXL8X.jpg)
 
