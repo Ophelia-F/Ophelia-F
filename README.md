@@ -1,5 +1,5 @@
 ### Hello! 👋🏾 my name is Ophelia.
-#### I am a Software Enginner based in Philadelphia, PA.
+#### I am a Software Engineer based in Philadelphia, PA.
 ![I am a Software Enginner based in Philadelphia, PA.](https://i.imgur.com/wRqXL8X.jpg)
 
 At a young age, I had a thirst for knowledge, which drew me into tech and computers. Because my passion has always been tinkering with technology, I started building computers for myself and others. As I transitioned into adulthood, resources to continue my learning became limited. Luckily I had peers who had access to those materials and I used these assets to further my learning all the way up to my current career as a software engineer. Being that engineering requires an inquisitive mind and leaving no stone (or stack overflow page) unturned, my past experience and curiosity has shaped me into a resourceful developer that would be a great addition to your team!
